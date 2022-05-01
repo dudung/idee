@@ -1,7 +1,8 @@
 /*
   2022_05_02.h
   Idea hit today
-  Sparisoma Viridi | https://github.com/dudung
+  Sparisoma Viridi
+  https://github.com/dudung
 */
 
 #include <vector>
@@ -16,6 +17,10 @@ vector<string> content(void) {
 
   // 1st paragraph
   string p = "
+  Jalan terblok mobil di Kolam
+  Menjaga jalan tetap lapang
+  Ke Pusdai ternyata Gasibu
+  Kecuali hujan boleh di sana
   ";
   lines.push_back(p);
 
