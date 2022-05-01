@@ -9,7 +9,10 @@
 #ifndef TAG_2022_05_02
 #define TAG_2022_05_02
 
-void content(vector<string> lines) {
+vector<string> content(void) {
+  // compound of paragraphs
+  vector<string> lines
+
   // 1st paragraph
   string p = "
   ";
@@ -19,6 +22,8 @@ void content(vector<string> lines) {
   string p = "
   ";
   lines.push_back(p);
+  
+  return lines;
 }
 
 #endif
