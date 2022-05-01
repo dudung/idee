@@ -1,6 +1,7 @@
 /*
   2022_05_02.h
   Idea hit today
+  Sparisoma Viridi | https://github.com/dudung
 */
 
 #include <vector>
